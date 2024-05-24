@@ -70,12 +70,3 @@ Before cloning the project, you need to create an App password if you haven't al
 
 **GET /<string:username>**
 
-e.g. `http://localhost:8080/<insert username here>`
-
-##### Sample Response
-
-```
-{
-    {'user@gmail.com': {'BUG': 25, 'CODE_SMELL': 91, 'VULNERABILITY': 0}}
-}
-```
